@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoAn_1Rebuild/1.0.0": {
+        "runtime": {
+          "DoAn_1Rebuild.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoAn_1Rebuild/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
